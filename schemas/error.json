@@ -1,0 +1,33 @@
+{
+  "id": "6C9A7DA2-2CB0-4B97-BE32-5E2CA5220B87",
+  "name": "error",
+  "timestamp": "2022-01-12T15:35:52-0500",
+  "body": [
+    {
+      "id": "8471903D-9234-4575-B666-5AC7E0C9814A",
+      "name": "order-received",
+      "timestamp": "2022-01-12T10:20:00-0500",
+      "body": {
+        "id": "3B076A37-6D64-4776-B40A-D95523525982",
+        "products": [
+          {
+            "id": "123456",
+            "qty": 4
+          }
+        ],
+        "customer": {
+          "first_name": "John",
+          "last_name": "Doe",
+          "email": "jdoe@example.com",
+          "address": {
+            "type": "shipping",
+            "line1": "555 Wisconsin Ave, Apt 214",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20007"
+          }
+        }
+      }
+    }
+  ]
+}

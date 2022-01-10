@@ -1,0 +1,13 @@
+{
+  "id": "80B35522-B2E6-4122-B22B-C3D581CC25B6",
+  "name": "notification",
+  "timestamp": "2022-01-12T10:22:00-0500",
+  "body": {
+    "id": "250dafa5-4dbf-4692-8d83-83f1bcb25d0d",
+    "type": "email",
+    "to": "jdoe@example.com",
+    "from": "orders@mystore.com",
+    "subject": "Your order has been received!.",
+    "body": "<p>Your order# 3B076A37-6D64-4776-B40A-D95523525982 has been received</p>"
+  }
+}
